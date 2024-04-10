@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\bin\Debug\net6.0\Exercise1.exe
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\bin\Debug\net6.0\Exercise1.dll
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.dll
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+d:\users\fmi\Desktop\OOP2\OOP2\Exercise 1\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
