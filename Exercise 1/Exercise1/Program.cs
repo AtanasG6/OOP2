@@ -11,7 +11,7 @@
             //Console.WriteLine("Is 4 prime? " + isPrime(4));
             //Console.WriteLine(findSum(new decimal[] { 180.09m, 277.08m, 1.1m, 1000.1m, 1.1m }));
             Console.WriteLine(arePricesEqual(new decimal[] { 3m }, new decimal[] { 3.25m }));
-            Console.WriteLine(isLeap(2024));
+            //Console.WriteLine(isLeap(2024));
             Console.WriteLine(GetDaysInMonth(2024, 2)); 
         }
 
@@ -86,7 +86,7 @@
 
             for (int i = 0; i < euroArr.Length; i++)
             {
-                tempArr2[i] = euroArr[i] * 1.80m;
+                tempArr2[i] = usdArr[i] * 1.80m;
             }
 
             for (int i = 0; i < euroArr.Length; i++)
