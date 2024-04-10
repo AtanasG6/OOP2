@@ -10,7 +10,7 @@
             //Console.WriteLine("Is 11 prime? " + isPrime(11));
             //Console.WriteLine("Is 4 prime? " + isPrime(4));
             //Console.WriteLine(findSum(new decimal[] { 180.09m, 277.08m, 1.1m, 1000.1m, 1.1m }));
-            Console.WriteLine(arePricesEqual(new decimal[] { 3m }, new decimal[] { 3.25m }));
+            Console.WriteLine(arePricesEqual(new decimal[] { 3m, 6m, 9m, 12m, 15m, 18m }, new decimal[] { 3.25m, 6.5m, 9.75m, 13m, 16.25m, 19.5m }));
             //Console.WriteLine(isLeap(2024));
             Console.WriteLine(GetDaysInMonth(2024, 2)); 
         }
