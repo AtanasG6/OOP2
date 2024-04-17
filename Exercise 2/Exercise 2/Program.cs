@@ -124,13 +124,11 @@ static void SplitArray(int[] arr, out int[] evenArr, out int[] oddArr)
     {
         if (arr[i] % 2 == 0)
         {
-            evenArray[j] = arr[i];
-            j++;
+            evenArray[j++] = arr[i];
         }
         else if (arr[i] % 2 == 1)
         {
-           oddArray[k] = arr[i];
-            k++;
+           oddArray[k++] = arr[i];
         }
     }
 
