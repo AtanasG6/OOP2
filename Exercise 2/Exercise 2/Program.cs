@@ -18,12 +18,26 @@
 //isEvenOrOdd(num2, out isEven, out isOdd);
 //Console.WriteLine($"num1 = {num2}: isEven = {isEven}, isOdd = {isOdd}.");
 
-Profile newProfile = new Profile("New Language", "New Theme", "New Font");
-Profile profile = new Profile("Default Language", "Default Theme", "Default Font");
+//Profile newProfile = new Profile("New Language", "New Theme", "New Font");
+//Profile profile = new Profile("Default Language", "Default Theme", "Default Font");
+//Console.ForegroundColor = ConsoleColor.Cyan;
+//Console.WriteLine($"Current settings: {profile.Language}, {profile.Theme}, {profile.Font}");
+//Console.ResetColor();
+//UpdateProfileSettings(profile, newProfile);
+//Console.ForegroundColor= ConsoleColor.Yellow;
+//Console.WriteLine($"Settings update! New settings: {profile.Language}, {profile.Theme}, {profile.Font}");
+//Console.ResetColor();
 
-UpdateProfileSettings(profile, newProfile);
 
-Console.WriteLine($"{profile.Language}, {profile.Theme}, {profile.Font}");
+//long factorial;
+//int num = 7;
+//Factorial(num, out factorial);
+//Console.WriteLine($"Factorial of {num} is {factorial}.");
+
+string[] arr = { "Doe", "Max", "Peter" };
+
+ReplaceElement(arr, "Max", "Carlos");
+Console.WriteLine(string.Join(", ", arr));
 
 static void Swap(ref int a, ref int b)
 {
@@ -53,11 +67,37 @@ static void isEvenOrOdd(int num, out bool isEven, out bool isOdd)
     }
 }
 
+
+static void Factorial(int n, out long factorial)
+{
+    long result = 1;
+
+    while (n >= 1)
+    {
+        result *= n;
+        n--;
+    }
+
+    factorial = result;
+}
+
+
 static void UpdateProfileSettings(Profile oldProfile, Profile newProfile)
 {
     oldProfile.Language = newProfile.Language;
     oldProfile.Theme = newProfile.Theme;
     oldProfile.Font = newProfile.Font;
+}
+
+static void ReplaceElement(string[] array, string symbolToReplace, string newSymbol)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] == symbolToReplace)
+        {
+            array[i] = newSymbol;
+        }
+    }
 }
 
 class Profile
@@ -73,4 +113,9 @@ class Profile
         Font = font;
     }
 }
+
+
+
+
+
 
