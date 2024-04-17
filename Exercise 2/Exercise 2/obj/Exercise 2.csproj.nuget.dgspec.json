@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\users\\fmi\\Desktop\\Exercise 2\\Exercise 2\\Exercise 2\\Exercise 2.csproj": {}
+    "d:\\users\\fmi\\Desktop\\Exercise 2\\OOP2\\Exercise 2\\Exercise 2\\Exercise 2.csproj": {}
   },
   "projects": {
-    "D:\\users\\fmi\\Desktop\\Exercise 2\\Exercise 2\\Exercise 2\\Exercise 2.csproj": {
+    "d:\\users\\fmi\\Desktop\\Exercise 2\\OOP2\\Exercise 2\\Exercise 2\\Exercise 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\users\\fmi\\Desktop\\Exercise 2\\Exercise 2\\Exercise 2\\Exercise 2.csproj",
+        "projectUniqueName": "d:\\users\\fmi\\Desktop\\Exercise 2\\OOP2\\Exercise 2\\Exercise 2\\Exercise 2.csproj",
         "projectName": "Exercise 2",
-        "projectPath": "D:\\users\\fmi\\Desktop\\Exercise 2\\Exercise 2\\Exercise 2\\Exercise 2.csproj",
+        "projectPath": "d:\\users\\fmi\\Desktop\\Exercise 2\\OOP2\\Exercise 2\\Exercise 2\\Exercise 2.csproj",
         "packagesPath": "C:\\Users\\fmi\\.nuget\\packages\\",
-        "outputPath": "D:\\users\\fmi\\Desktop\\Exercise 2\\Exercise 2\\Exercise 2\\obj\\",
+        "outputPath": "d:\\users\\fmi\\Desktop\\Exercise 2\\OOP2\\Exercise 2\\Exercise 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
