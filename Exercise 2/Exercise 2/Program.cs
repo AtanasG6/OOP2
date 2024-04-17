@@ -34,10 +34,17 @@
 //Factorial(num, out factorial);
 //Console.WriteLine($"Factorial of {num} is {factorial}.");
 
-string[] arr = { "Doe", "Max", "Peter" };
+//string[] arr = { "Doe", "Max", "Peter" };
 
-ReplaceElement(arr, "Max", "Carlos");
-Console.WriteLine(string.Join(", ", arr));
+//ReplaceElement(arr, "Max", "Carlos");
+//Console.WriteLine(string.Join(", ", arr));
+
+int[] arr = new int[] {1,2,3,4,5,6};
+int[] evenArr, oddArr;
+SplitArray(arr, out evenArr, out oddArr);
+
+Console.WriteLine(string.Join(", ", evenArr));
+Console.WriteLine(string.Join(", ", oddArr));
 
 static void Swap(ref int a, ref int b)
 {
@@ -81,14 +88,6 @@ static void Factorial(int n, out long factorial)
     factorial = result;
 }
 
-
-static void UpdateProfileSettings(Profile oldProfile, Profile newProfile)
-{
-    oldProfile.Language = newProfile.Language;
-    oldProfile.Theme = newProfile.Theme;
-    oldProfile.Font = newProfile.Font;
-}
-
 static void ReplaceElement(string[] array, string symbolToReplace, string newSymbol)
 {
     for (int i = 0; i < array.Length; i++)
@@ -98,6 +97,52 @@ static void ReplaceElement(string[] array, string symbolToReplace, string newSym
             array[i] = newSymbol;
         }
     }
+}
+
+static void SplitArray(int[] arr, out int[] evenArr, out int[] oddArr)
+{
+    int countEvenArr = 0, countOddArr = 0;
+
+    foreach (int num in arr)
+    {
+        if (num % 2 == 0)
+        {
+            countEvenArr++;
+        }
+        else if (num % 2 == 1) 
+        {
+            countOddArr++;
+        }
+    }
+
+    int[] evenArray = new int[countEvenArr];
+    int[] oddArray = new int[countOddArr];
+
+    int j = 0, k = 0;
+
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (arr[i] % 2 == 0)
+        {
+            evenArray[j] = arr[i];
+            j++;
+        }
+        else if (arr[i] % 2 == 1)
+        {
+           oddArray[k] = arr[i];
+            k++;
+        }
+    }
+
+    evenArr = evenArray;
+    oddArr = oddArray;
+}
+
+static void UpdateProfileSettings(Profile oldProfile, Profile newProfile)
+{
+    oldProfile.Language = newProfile.Language;
+    oldProfile.Theme = newProfile.Theme;
+    oldProfile.Font = newProfile.Font;
 }
 
 class Profile
