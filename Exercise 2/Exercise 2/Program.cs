@@ -39,12 +39,14 @@
 //ReplaceElement(arr, "Max", "Carlos");
 //Console.WriteLine(string.Join(", ", arr));
 
-int[] arr = new int[] {1,2,3,4,5,6};
+int[] arr = new int[] {1,2,3,4,5,6, 7};
 int[] evenArr, oddArr;
-SplitArray(arr, out evenArr, out oddArr);
-
+//SplitArray(arr, out evenArr, out oddArr);
+SegmentArray(arr, out evenArr, out oddArr);
 Console.WriteLine(string.Join(", ", evenArr));
 Console.WriteLine(string.Join(", ", oddArr));
+
+
 
 static void Swap(ref int a, ref int b)
 {
@@ -97,6 +99,12 @@ static void ReplaceElement(string[] array, string symbolToReplace, string newSym
             array[i] = newSymbol;
         }
     }
+}
+
+static void SegmentArray(int[] arr, out int[] evenArr, out int[] oddArr)
+{
+    evenArr = arr.Where(n => n % 2 == 0).ToArray();
+    oddArr = arr.Where(n => n % 2 != 0).ToArray(); 
 }
 
 static void SplitArray(int[] arr, out int[] evenArr, out int[] oddArr)
