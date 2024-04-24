@@ -47,7 +47,7 @@
 			get { return _expireDate; }
 			set 
 			{
-				if (value < DateTime.Now)
+				if (value > DateTime.Now)
 				{
                     _expireDate = value;
                 }
@@ -65,7 +65,7 @@
 			get { return name; }
 			set 
 			{
-				if (value.Length < 3)
+				if (value.Length > 3)
 				{
 					name = value;	
 				}

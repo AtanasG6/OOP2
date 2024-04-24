@@ -20,5 +20,21 @@
                 product.Quantity -= quantity;
             }
         }
+
+        public double TotalSum()
+        {
+            double sum = 0;
+            foreach (var product in Products)
+            {
+                sum += product.Price * product.Quantity;
+            }
+
+            return sum;
+        }
+
+        public Cart()
+        {
+             Products = new List<Product>();
+        }
     }
 }

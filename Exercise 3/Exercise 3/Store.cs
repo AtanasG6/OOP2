@@ -32,10 +32,11 @@ namespace Exercise_3
 
         public void AddAmount(Product product, int quantity)
         {
-            if (Products.Contains(product))
+            if (!Products.Contains(product))
             {
-                product.Quantity += quantity;
+                Products.Add(product);
             }
+            product.Quantity += quantity;
         }
 
         public void SubtractAmount(Product product, int quantity)
