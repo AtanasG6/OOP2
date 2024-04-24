@@ -24,7 +24,7 @@
             PointB = pointB;
         }
 
-        public double CalcPerimeter()
+        private double CalcPerimeter()
         {
             double dx = Math.Abs(PointA.X - PointB.X);
             double dy = Math.Abs(PointA.Y - PointB.Y);
@@ -32,7 +32,7 @@
             return Math.Round(perimeter, 2);
         }
 
-        public double CalcFace()
+        private double CalcFace()
         {
             double dx = Math.Abs(PointA.X - PointB.X);
             double dy = Math.Abs(PointA.Y - PointB.Y);
