@@ -1,6 +1,4 @@
 ﻿using Exercise_3;
-using System.Diagnostics;
-using System.Xml.Linq;
 
 class Program
 {
@@ -21,8 +19,9 @@ class Program
 
 
         MyRectangle rect1 = new MyRectangle(new Point(3.3, 6.7), new Point(4.5, 9));
-
+        
         Console.WriteLine("Perimeter: " + rect1.Perimeter);
         Console.WriteLine("Area " + rect1.Face);
+
     }
 }
