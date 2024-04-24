@@ -24,5 +24,6 @@ class Program
         Console.WriteLine("Area " + rect1.Face);
 
         MySingleton.Instance.Log();
+
     }
 }

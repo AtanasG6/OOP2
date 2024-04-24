@@ -1,6 +1,6 @@
 ﻿namespace Exercise_3
 {
-    public class MySingleton
+    public sealed class MySingleton
     {
         private static MySingleton instance;
 
