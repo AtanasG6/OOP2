@@ -23,5 +23,6 @@ class Program
         Console.WriteLine("Perimeter: " + rect1.Perimeter);
         Console.WriteLine("Area " + rect1.Face);
 
+        MySingleton.Instance.Log();
     }
 }

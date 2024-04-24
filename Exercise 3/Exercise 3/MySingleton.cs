@@ -17,5 +17,10 @@
                 return instance;
             }
         }
+
+        public void Log()
+        {
+            Console.WriteLine("Test...");
+        }
     }
 }
