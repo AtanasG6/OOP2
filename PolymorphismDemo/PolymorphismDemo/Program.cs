@@ -6,6 +6,7 @@ public class Program
 	{
 		Vehicle airplane = new Airplane();
 		Vehicle truck = new Truck();
+		Vehicle airfighter = new AirFighter();
 		IVehicle ship = new Ship();
 		//PrintVehicleModel(airplane);
 		//PrintVehicleModel(truck);
@@ -40,6 +41,9 @@ public class Program
 		Airplane castAirplane = (Airplane)castVehicle;
 
 		Console.WriteLine(castAirplane.MaxPeople);
+
+		Print(airfighter);
+
 
 		Console.ReadLine();
 	}
@@ -79,5 +83,21 @@ public class Program
 	public static void PrintStop(Vehicle vehicle)
 	{
 		Console.WriteLine(vehicle.Stop());
+	}
+
+	public static void Print(object obj)
+	{
+		if (obj is Vehicle vehicle)
+		{
+            Console.WriteLine(vehicle.Drive());
+        }
+		else if (obj is string text)
+		{
+            Console.WriteLine(text.Length);
+        }
+		else if (obj is AirFighter fighter)
+		{
+            Console.WriteLine(fighter.ShootARacket());
+		}
 	}
 }

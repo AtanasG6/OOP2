@@ -8,5 +8,10 @@
 		{
 			return "Airfighter is fighting...";
 		}
+
+		public string ShootARacket()
+		{
+            return "Shooting a racket...";
+        }
 	}
 }

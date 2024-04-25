@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolymorphismDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287005486975e8ee6059b3d21eb0125ed3289503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aad5e8f57ea0ea4a453c0cbb443c0c33a7dc3123")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolymorphismDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolymorphismDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
