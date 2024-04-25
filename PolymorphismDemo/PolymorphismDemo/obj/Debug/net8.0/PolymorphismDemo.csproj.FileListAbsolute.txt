@@ -1,0 +1,15 @@
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.exe
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.deps.json
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.runtimeconfig.json
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.dll
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.pdb
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.sourcelink.json
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.dll
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\refint\PolymorphismDemo.dll
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.pdb
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.genruntimeconfig.cache
+C:\Users\Атанас\Desktop\Нова папка\oop2\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\ref\PolymorphismDemo.dll
