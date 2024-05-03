@@ -1,0 +1,15 @@
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\bin\Debug\net8.0\VirtualMethodsInConstructor.exe
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\bin\Debug\net8.0\VirtualMethodsInConstructor.deps.json
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\bin\Debug\net8.0\VirtualMethodsInConstructor.runtimeconfig.json
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\bin\Debug\net8.0\VirtualMethodsInConstructor.dll
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\bin\Debug\net8.0\VirtualMethodsInConstructor.pdb
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.AssemblyInfoInputs.cache
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.AssemblyInfo.cs
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.sourcelink.json
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.dll
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\refint\VirtualMethodsInConstructor.dll
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.pdb
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\VirtualMethodsInConstructor.genruntimeconfig.cache
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethodsInConstructor\obj\Debug\net8.0\ref\VirtualMethodsInConstructor.dll

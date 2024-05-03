@@ -10,7 +10,8 @@
                 new Circle(),
                 new Line(),
                 new SpecialFigure(),
-                new Line()
+                new Line(),
+                new Rectangle()
             };
 
             foreach (var f in figures)
@@ -19,8 +20,8 @@
                 Console.WriteLine();
             }
 
-            //Figure circle = new Circle();
-            //circle.Draw();
+            Figure rectangle = new Rectangle();
+            ((Rectangle)rectangle).Draw();
         }
     }
 }

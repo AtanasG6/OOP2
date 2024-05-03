@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41B99DBC-2748-4408-949C-B05605B0A6D2}|VirtualMethodsInConstructor\\VirtualMethodsInConstructor.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethodsinconstructor\\virtualmethodsinconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B99DBC-2748-4408-949C-B05605B0A6D2}|VirtualMethodsInConstructor\\VirtualMethodsInConstructor.csproj|solutionrelative:virtualmethodsinconstructor\\virtualmethodsinconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\virtualmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\virtualmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\specialfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\desktop\\oop reposiory\\oop2\\virtualmethods\\virtualmethods\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136D5B6-C6DE-4737-B65E-23ABDCA4F521}|VirtualMethods\\VirtualMethods.csproj|solutionrelative:virtualmethods\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +38,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SpecialFigure.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\SpecialFigure.cs",
-              "RelativeDocumentMoniker": "VirtualMethods\\SpecialFigure.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\SpecialFigure.cs",
-              "RelativeToolTip": "VirtualMethods\\SpecialFigure.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "VirtualMethodsInConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethodsInConstructor\\VirtualMethodsInConstructor.cs",
+              "RelativeDocumentMoniker": "VirtualMethodsInConstructor\\VirtualMethodsInConstructor.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethodsInConstructor\\VirtualMethodsInConstructor.cs",
+              "RelativeToolTip": "VirtualMethodsInConstructor\\VirtualMethodsInConstructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:58:25.188Z",
+              "WhenOpened": "2024-05-03T16:27:41.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\Rectangle.cs",
+              "RelativeDocumentMoniker": "VirtualMethods\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\Rectangle.cs",
+              "RelativeToolTip": "VirtualMethods\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:17:47.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecialFigure.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\SpecialFigure.cs",
+              "RelativeDocumentMoniker": "VirtualMethods\\SpecialFigure.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\SpecialFigure.cs",
+              "RelativeToolTip": "VirtualMethods\\SpecialFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:58:25.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\Line.cs",
               "RelativeDocumentMoniker": "VirtualMethods\\Line.cs",
@@ -55,12 +87,11 @@
               "RelativeToolTip": "VirtualMethods\\Line.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:57:28.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:57:28.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\Circle.cs",
               "RelativeDocumentMoniker": "VirtualMethods\\Circle.cs",
@@ -68,31 +99,29 @@
               "RelativeToolTip": "VirtualMethods\\Circle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:56:18.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:56:18.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Figure.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\Figure.cs",
               "RelativeDocumentMoniker": "VirtualMethods\\Figure.cs",
               "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\Figure.cs",
               "RelativeToolTip": "VirtualMethods\\Figure.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:55:18.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:55:18.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VirtualMethods.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\VirtualMethods.cs",
               "RelativeDocumentMoniker": "VirtualMethods\\VirtualMethods.cs",
               "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Reposiory\\OOP2\\VirtualMethods\\VirtualMethods\\VirtualMethods.cs",
               "RelativeToolTip": "VirtualMethods\\VirtualMethods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T15:54:31.482Z",
               "EditorCaption": ""

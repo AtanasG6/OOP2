@@ -1,6 +1,6 @@
 ﻿namespace VirtualMethods
 {
-    internal class SpecialFigure : Figure
+    public class SpecialFigure : Figure
     {
 
     }

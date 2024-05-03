@@ -8,5 +8,6 @@
             Console.WriteLine($"I am a figure of unknown kind: {this.GetType().Name}");
             Console.ResetColor();
         }
+
     }
 }
