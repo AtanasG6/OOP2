@@ -1,0 +1,15 @@
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.AssemblyInfo.cs
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.sourcelink.json
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.exe
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.deps.json
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.runtimeconfig.json
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.dll
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.pdb
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.dll
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\refint\VirtualMethods.dll
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.pdb
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.genruntimeconfig.cache
+C:\Users\Атанас Гюлчев\Desktop\OOP Reposiory\OOP2\VirtualMethods\VirtualMethods\obj\Debug\net8.0\ref\VirtualMethods.dll
