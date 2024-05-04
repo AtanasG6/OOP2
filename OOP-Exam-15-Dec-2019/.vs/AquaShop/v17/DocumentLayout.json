@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C462E007-CC34-40FC-B846-BC6FF3F35C81}|AquaShop\\AquaShop.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\downloads\\oop-exam-15-dec-2019\\aquashop\\io\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C462E007-CC34-40FC-B846-BC6FF3F35C81}|AquaShop\\AquaShop.csproj|solutionrelative:aquashop\\io\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C462E007-CC34-40FC-B846-BC6FF3F35C81}|AquaShop\\AquaShop.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\downloads\\oop-exam-15-dec-2019\\aquashop\\io\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C462E007-CC34-40FC-B846-BC6FF3F35C81}|AquaShop\\AquaShop.csproj|solutionrelative:aquashop\\io\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C462E007-CC34-40FC-B846-BC6FF3F35C81}|AquaShop\\AquaShop.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441 \u0433\u044E\u043B\u0447\u0435\u0432\\downloads\\oop-exam-15-dec-2019\\aquashop\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C462E007-CC34-40FC-B846-BC6FF3F35C81}|AquaShop\\AquaShop.csproj|solutionrelative:aquashop\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\IO\\Writer.cs",
+              "RelativeDocumentMoniker": "AquaShop\\IO\\Writer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\IO\\Writer.cs",
+              "RelativeToolTip": "AquaShop\\IO\\Writer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:03:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\IO\\Reader.cs",
+              "RelativeDocumentMoniker": "AquaShop\\IO\\Reader.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\IO\\Reader.cs",
+              "RelativeToolTip": "AquaShop\\IO\\Reader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:03:44.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "AquaShop\\Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "AquaShop\\Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:01:57.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
