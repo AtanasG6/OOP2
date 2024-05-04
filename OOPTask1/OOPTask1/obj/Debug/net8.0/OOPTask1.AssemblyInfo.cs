@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPTask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e498fe7b9cf091ac84fde51b029f6597f8b1365")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c0e35c6617f67a8f983e0213217f519250fe8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPTask1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPTask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

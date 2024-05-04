@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Атанас Гюлчев\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj": {}
+    "C:\\Users\\Атанас Гюлчев\\Desktop\\OOP Repository\\OOP2\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Атанас Гюлчев\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj": {
+    "C:\\Users\\Атанас Гюлчев\\Desktop\\OOP Repository\\OOP2\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Атанас Гюлчев\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj",
+        "projectUniqueName": "C:\\Users\\Атанас Гюлчев\\Desktop\\OOP Repository\\OOP2\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj",
         "projectName": "AquaShop",
-        "projectPath": "C:\\Users\\Атанас Гюлчев\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj",
+        "projectPath": "C:\\Users\\Атанас Гюлчев\\Desktop\\OOP Repository\\OOP2\\OOP-Exam-15-Dec-2019\\AquaShop\\AquaShop.csproj",
         "packagesPath": "C:\\Users\\Атанас Гюлчев\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Атанас Гюлчев\\Downloads\\OOP-Exam-15-Dec-2019\\AquaShop\\obj\\",
+        "outputPath": "C:\\Users\\Атанас Гюлчев\\Desktop\\OOP Repository\\OOP2\\OOP-Exam-15-Dec-2019\\AquaShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Атанас Гюлчев\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,30 +3,12 @@
     public class PublicTransportationAutopark : Autopark
     {
         public int MaximumPassengers
-        {
-            get 
-            {
-                return CalculatePassengers();
-            }
-        }
+            => this.Vehicles.Sum(v => v.MaximumPassengers);
+        
 
         public PublicTransportationAutopark(List<MotorVehicle> vehicles)
             :base(vehicles) 
         {
-        }
-
-
-        private int CalculatePassengers()
-        {
-            int result = 0;
-            foreach (var vehicle in Vehicles)
-            {
-                if (vehicle is not null)
-                {
-                    result += vehicle.MaximumPassengers;
-                }
-            }
-            return result;
         }
 
         public override string ToString()
