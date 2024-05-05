@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "AquaShop\\Models\\Aquariums\\Aquarium.cs",
               "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441 \u0413\u044E\u043B\u0447\u0435\u0432\\Desktop\\OOP Repository\\OOP2\\OOP-Exam-15-Dec-2019\\AquaShop\\Models\\Aquariums\\Aquarium.cs",
               "RelativeToolTip": "AquaShop\\Models\\Aquariums\\Aquarium.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T18:40:47.45Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "AquaShop\\Models\\Fish\\SaltwaterFish.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:28:14.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:28:14.527Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "AquaShop\\Models\\Fish\\FreshwaterFish.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:24:49.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:24:49.722Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "AquaShop\\Models\\Fish\\Fish.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:11:01.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:11:01.315Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "AquaShop\\Models\\Decorations\\Plant.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:08:44.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:08:44.251Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "AquaShop\\Models\\Decorations\\Ornament.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:06:22.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:06:22.093Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "AquaShop\\Models\\Decorations\\Decoration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:04:06.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:04:06.091Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "AquaShop\\Core\\Contracts\\IController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:02:12.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:02:12.25Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "AquaShop\\Core\\Engine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T18:01:48.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T18:01:48.085Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "AquaShop\\IO\\Writer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:03:47.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T17:03:47.509Z"
             },
             {
               "$type": "Document",

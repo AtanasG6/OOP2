@@ -2,13 +2,12 @@
 {
     public class PublicTransportationAutopark : Autopark
     {
-        public int MaximumPassengers
-            => this.Vehicles.Sum(v => v.MaximumPassengers);
-        
+        public int MaximumPassengers { get; }
 
         public PublicTransportationAutopark(List<MotorVehicle> vehicles)
             :base(vehicles) 
         {
+            this.MaximumPassengers = this.Vehicles.Sum(v => v.MaximumPassengers);
         }
 
         public override string ToString()

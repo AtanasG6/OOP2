@@ -11,11 +11,13 @@
     public abstract class Aquarium : IAquarium
     {
         private string name;
+        private readonly List<IDecoration> decorations;
+        private readonly List<IFish> fish;
 
         protected Aquarium()
         {
-            this.Decorations = new List<IDecoration>();
-            this.Fish = new List<IFish>();
+            this.decorations = new List<IDecoration>();
+            this.fish = new List<IFish>();
         }
 
         public string Name
@@ -37,11 +39,13 @@
         public int Capacity { get; }
 
         public int Comfort
-            => this.Decorations.Sum(c => c.Comfort);
+                => this.Decorations.Sum(c => c.Comfort);
 
-        public ICollection<IDecoration> Decorations { get; }
+        public ICollection<IDecoration> Decorations
+                => this.decorations.AsReadOnly();
 
-        public ICollection<IFish> Fish { get; }
+        public ICollection<IFish> Fish 
+                => this.fish.AsReadOnly();
 
 
         public void AddDecoration(IDecoration decoration)

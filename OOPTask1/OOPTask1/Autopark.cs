@@ -3,7 +3,7 @@
     public class Autopark
     {
         private const string ERROR_MESSAGE = "Invalid input!";
-        private readonly List<MotorVehicle> _vehicles;
+        private readonly IReadOnlyCollection<MotorVehicle> _vehicles;
 
 
         public Autopark(List<MotorVehicle> vehicles)
@@ -11,7 +11,7 @@
             this.Vehicles = vehicles;
         }
 
-        public List<MotorVehicle> Vehicles
+        public IReadOnlyCollection<MotorVehicle> Vehicles
 		{
 			get 
 			{ 
@@ -23,7 +23,14 @@
 				{
 					throw new ArgumentException(ERROR_MESSAGE);
 				}
-				this._vehicles = value;
+                foreach (var vehicle in value)
+                {
+                    if (vehicle == null)
+                    {
+                        throw new ArgumentException(ERROR_MESSAGE);
+                    }
+                }
+                this._vehicles = value;
 			}
 		}
 
