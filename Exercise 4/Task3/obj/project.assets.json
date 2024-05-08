@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Атанас\\Desktop\\OOP Repository\\OOP2\\Exercise 4\\Exercise 4\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\Атанас\\Desktop\\OOP Repository\\OOP2\\Exercise 4\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "C:\\Users\\Атанас\\Desktop\\OOP Repository\\OOP2\\Exercise 4\\Exercise 4\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\Атанас\\Desktop\\OOP Repository\\OOP2\\Exercise 4\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\Атанас\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Атанас\\Desktop\\OOP Repository\\OOP2\\Exercise 4\\Exercise 4\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\Атанас\\Desktop\\OOP Repository\\OOP2\\Exercise 4\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Атанас\\AppData\\Roaming\\NuGet\\NuGet.Config",
