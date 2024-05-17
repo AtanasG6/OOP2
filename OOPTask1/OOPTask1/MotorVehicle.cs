@@ -1,7 +1,7 @@
 ﻿namespace OOPTask1
 {
-    public abstract class MotorVehicle
-    {
+    public abstract class MotorVehicle : IMotorVehicle
+	{
 		private const string ERROR_MESSAGE = "Invalid input!";
 		private readonly double _power;
 		private readonly int _maximumPassengers;

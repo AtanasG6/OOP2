@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTask2", "OOPTask2\OOPTask2.csproj", "{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E3D6D7-D8DB-40D8-9F87-27E02AA082A5}
+	EndGlobalSection
+EndGlobal

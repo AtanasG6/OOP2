@@ -13,3 +13,18 @@ C:\Users\Атанас Гюлчев\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1
 C:\Users\Атанас Гюлчев\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.pdb
 C:\Users\Атанас Гюлчев\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.genruntimeconfig.cache
 C:\Users\Атанас Гюлчев\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\ref\OOPTask1.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\bin\Debug\net8.0\OOPTask1.exe
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\bin\Debug\net8.0\OOPTask1.deps.json
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\bin\Debug\net8.0\OOPTask1.runtimeconfig.json
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\bin\Debug\net8.0\OOPTask1.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\bin\Debug\net8.0\OOPTask1.pdb
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.AssemblyInfoInputs.cache
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.AssemblyInfo.cs
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.csproj.CoreCompileInputs.cache
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.sourcelink.json
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\refint\OOPTask1.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.pdb
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\OOPTask1.genruntimeconfig.cache
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask1\OOPTask1\obj\Debug\net8.0\ref\OOPTask1.dll

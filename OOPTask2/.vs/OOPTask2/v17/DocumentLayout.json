@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\bathroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\bathroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\bedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\bedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|c:\\users\\\u0430\u0442\u0430\u043D\u0430\u0441\\desktop\\oop repository\\oop2\\ooptask2\\ooptask2\\ibuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6F52C-50ED-4B47-8FC5-6555F9F7CE47}|OOPTask2\\OOPTask2.csproj|solutionrelative:ooptask2\\ibuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\IPerson.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\IPerson.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\IPerson.cs",
+              "RelativeToolTip": "OOPTask2\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:08:01.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Program.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Program.cs",
+              "RelativeToolTip": "OOPTask2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:25:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kitchen.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Kitchen.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Kitchen.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Kitchen.cs",
+              "RelativeToolTip": "OOPTask2\\Kitchen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:29:05.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Person.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Person.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Person.cs",
+              "RelativeToolTip": "OOPTask2\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:29:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Building.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Building.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Building.cs",
+              "RelativeToolTip": "OOPTask2\\Building.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:31:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\House.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\House.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\House.cs",
+              "RelativeToolTip": "OOPTask2\\House.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:33:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bathroom.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Bathroom.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Bathroom.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Bathroom.cs",
+              "RelativeToolTip": "OOPTask2\\Bathroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:28:48.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bedroom.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Bedroom.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Bedroom.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Bedroom.cs",
+              "RelativeToolTip": "OOPTask2\\Bedroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:27:55.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Room.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\Room.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\Room.cs",
+              "RelativeToolTip": "OOPTask2\\Room.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:26:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRoom.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\IRoom.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\IRoom.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\IRoom.cs",
+              "RelativeToolTip": "OOPTask2\\IRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:18:23.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\IBuilding.cs",
+              "RelativeDocumentMoniker": "OOPTask2\\IBuilding.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0442\u0430\u043D\u0430\u0441\\Desktop\\OOP Repository\\OOP2\\OOPTask2\\OOPTask2\\IBuilding.cs",
+              "RelativeToolTip": "OOPTask2\\IBuilding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:19:21.318Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

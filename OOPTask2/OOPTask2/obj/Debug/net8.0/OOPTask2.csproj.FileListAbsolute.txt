@@ -1,0 +1,15 @@
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\bin\Debug\net8.0\OOPTask2.exe
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\bin\Debug\net8.0\OOPTask2.deps.json
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\bin\Debug\net8.0\OOPTask2.runtimeconfig.json
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\bin\Debug\net8.0\OOPTask2.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\bin\Debug\net8.0\OOPTask2.pdb
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.AssemblyInfoInputs.cache
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.AssemblyInfo.cs
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.csproj.CoreCompileInputs.cache
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.sourcelink.json
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\refint\OOPTask2.dll
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.pdb
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\OOPTask2.genruntimeconfig.cache
+C:\Users\Атанас\Desktop\OOP Repository\OOP2\OOPTask2\OOPTask2\obj\Debug\net8.0\ref\OOPTask2.dll
